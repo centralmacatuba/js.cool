@@ -25,7 +25,7 @@ module.exports = {
   crypt: ['ns1.epizy.com', 'ns2.epizy.com'],
   mc: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   dast: ['adam.ns.cloudflare.com', 'marjory.ns.cloudflare.com'],
-  centralmacatuba: ['dns.centralmacatuba.eu.org']
+  centralmacatuba: ['ns1.dns.centralmacatuba.eu.org', 'ns2.dns.centralmacatuba.eu.org']
 };
 
 /*
